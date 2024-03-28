@@ -1,0 +1,21 @@
+,rdfs:comment
+0,"People with 17-beta hydroxysteroid dehydrogenase 3 deficiency, abbreviated as ""17-beta,"" have XY chromosomes and testes, but their bodies do not have one of the enzymes needed to synthesize testosterone. Most people with 17-beta are born with a vulva and vagina, and their testes are most often undescended. Some people with 17-beta will be born with genitals that do not clearly resemble a typical penis or a typical vulva. Some will have a penis that may be smaller than typical (known as a micropenis), and the urethra may open on the underside of the penis rather than at the tip (known as hypospadias). In adolescence, people with 17-beta will often develop some secondary sex characteristics associated with a typical testosterone puberty."
+1,"Term used to refer to a wide range of variations in sex characteristics. The term ""intersex conditions"" is a pathologizing term used to mean people born with variations in their physical sex characteristics also known as intersex traits."
+2,"Abbreviation used to describe Two-Spirit people, lesbians, gay men, bisexual people, transgender people, queer people, and other gender and sexual minorities as a group; commonly used in Canada to emphasize the particularities of Indigenous people's experiences."
+3,"Acronym used to describe lesbians, gay men, bisexual people, transgender people, queer people, and any other sexual and gender minorities as a group."
+4,Groups of people who share the experience of being bisexual.
+5,Groups of people who share the experience of being gay men.
+6,Groups of people who share the experience of being lesbians.
+7,Groups of people who share the experience of being queer.
+8,Groups of people who share the experience of being transgender.
+9,A group of Two-Spirit people united by their shared identity.
+10,"People with 5-alpha reductase deficiency, abbreviated as 5-ARD, have XY chromosomes, testes, and typical levels of testosterone, but their bodies do not have the enzyme responsible for converting testosterone to the more powerful androgen dihydrotestosterone (DHT). This affects how an individual's external sex characteristics develop, and people born with 5-ARD often have genital differences that are noticed at birth. In adolescence, people with 5-ARD typically develop some features associated with testosterone puberty, and they may experience genital growth at this point."
+11,"69ing refers to an act of shared oral sex between two people simultaneously giving and receiving oral sex, one on top of the other, said to look similar to the number 69. "
+12,Sexual activities performed using the mouth.
+13,A sexual act involving the use of the mouth and tongue to stimulate another person's external genitalia (typically the penis or clitoris).
+14,"A sexual act involving the use of the mouth and tongue to stimulate the clitoris, labia, and vagina."
+15,"Asexual people who belong to one or more of the various Indigenous peoples of Australia; do not use to refer to the Indigenous people of the Torres Strait Islands, who are considered ethnically and culturally distinct. Only use to describe people who identify as Aboriginal Australian."
+16,"LGBTQ+ people who belong to one or more of the various Indigenous peoples of Australia; do not use to refer to the Indigenous people of the Torres Strait Islands, who are considered ethnically and culturally distinct. Only use to describe people who identify as Aboriginal Australian."
+17,"Bisexual people who belong to one or more of the various Indigenous peoples of Australia; do not use to refer to the Indigenous people of the Torres Strait Islands, who are considered ethnically and culturally distinct. Only use to describe people who identify as Aboriginal Australian."
+18,"Gay men who belong to one or more of the various Indigenous peoples of Australia; do not use to refer to the Indigenous people of the Torres Strait Islands, who are considered ethnically and culturally distinct. Only use to describe people who identify as Aboriginal Australian."
+19,"Intersex people who belong to one or more of the various Indigenous peoples of Australia; do not use to refer to the Indigenous people of the Torres Strait Islands, who are considered ethnically and culturally distinct. Only use to describe people who identify as Aboriginal Australian."
